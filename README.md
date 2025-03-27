@@ -12,5 +12,5 @@ A Python-based **GitHub Profile Analyzer** with a **GUI** that fetches and visua
 ## 📌 Installation
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/Sanjay-D-M/github-profile-analyzer
+   git clone https://github.com/Sanjay-D-M/github-profile-analyser
    cd github-profile-analyzer
